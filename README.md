@@ -28,6 +28,8 @@ Github: https://github.com/Bjornraaf/Ex
 
 ## Portfolio
 
+Presentatie 1: https://docs.google.com/presentation/d/1wFM-6V0A0ldIJjfzsiXr84wFw4TR0O78uSyC6Beryt8/edit#slide=id.g8a116b99c4_0_3
 
+presentatie 2: https://docs.google.com/presentation/d/1azjeEQ__h_2jtOnLGFoYBmJPp0I1YziRTcOnhW4kGo8/edit#slide=id.g8077efdaf6_1_6
 
 
