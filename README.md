@@ -1,4 +1,4 @@
-# Special Input Output
+# Expanding Space
 
 Team:
 1. Bjorn Ravensbergen.
