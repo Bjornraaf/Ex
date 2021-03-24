@@ -2,8 +2,10 @@
 
 Team:
 1. Bjorn Ravensbergen.
-2. Diego Ramon.
-3. Patryk Podworny.
+2. Ties Postma
+3. Joyce
+4. Roby
+5. Lucas
 
 ## Ontwerp
 
@@ -22,6 +24,7 @@ Hardware:
 Trello: https://trello.com/b/oSS8049C/expanding-space
 
 Github: https://github.com/Bjornraaf/Ex
+
 
 ## Portfolio
 
