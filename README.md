@@ -14,9 +14,11 @@ Mijn Aandeel:
 - Blackhole mechanic
 - Level designs
 
+Duur:
+- 8 Weken
+
 ## Ontwerp
 Het doel is om bij het einde van het level te komen zonder muren te raken of geraakt te woorden door enemy's.
-Meer informatie en overige links zijn te vinden in deze ReadMe.
 
 ## Software + Hardware
 Engine:
