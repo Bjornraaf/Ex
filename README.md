@@ -7,13 +7,6 @@ Team:
 4. Roby
 5. Lucas
 
-Mijn Aandeel:
-- UI & Menu's
-- Health & Damage mechanic
-- Coin pickup
-- Blackhole mechanic
-- Level designs
-
 Duur:
 - 8 Weken
 
